@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies.
 - 🌱 I’m currently learning intermediate level C++, C#, Database(SSMS), Python and also algorithms.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me from using my e-mail => metegazeloglu6@gmail.com
+- 📫 You can reach me from using my email => metegazeloglu6@gmail.com
 - ⚡ Fun fact: There isn't
 
 <!---
